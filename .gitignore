@@ -1,11 +1,11 @@
 # dependencies
-node_modules
+node_modules/
 
 #dev
-.next
+.next/
 
 # production
-build
+build/
 
 # misc
 .DS_Store
